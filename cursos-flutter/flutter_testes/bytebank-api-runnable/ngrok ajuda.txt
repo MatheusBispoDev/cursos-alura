@@ -1,0 +1,8 @@
+Arquivo para criar um túnel para acessar um localhost (http)
+
+pegar a porta do localhost (ex: localhost:8080)
+e executar o comando:
+ngrok http 8080 (porta)
+
+O túnel será criado e poderá ser acessado por um link
+Forwarding:
