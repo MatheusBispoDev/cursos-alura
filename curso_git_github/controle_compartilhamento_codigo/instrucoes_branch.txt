@@ -1,0 +1,12 @@
+Branch - Ramificações (linhas de desenvolvimento)
+
+Site para ver o git na prática
+http://git-school.github.io/visualizing-git/ 
+
+git branch nome_branch -> Criação de branch
+git checkout nome_branch -> Vai para o novo ramo de desenvolvimento
+git checkout -b nome_branch -> Cria um branch e seleciona ele
+
+Merge - Unifica as Branchs
+
+git merge branch - Unifica e da um commit/pull das ramificações
