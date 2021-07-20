@@ -1,0 +1,14 @@
+Vendo as alterações feitas no repositório
+
+git diff -> Vê a diferença de versoes (commits) no repositorio 
+*Só mostra caso as alterações ainda não foram adicionados (git add)
+
+git diff codigo_hash..codigo_hash -> Vê a diferença entre duas versões selecionadas
+------------------------------------------------------------------------------------------------------------
+
+Usando tags - Marcando versões
+
+git tag -a nome_tag -m "mensagem da tag" -> Criando tags
+git tag -> Mostra todas as tags disponiveis
+git push nome_remote tag -> Enviando para o servidor a versão (commit) da tag
+------------------------------------------------------------------------------------------------------------
