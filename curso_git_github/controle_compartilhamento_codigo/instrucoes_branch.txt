@@ -10,3 +10,8 @@ git checkout -b nome_branch -> Cria um branch e seleciona ele
 Merge - Unifica as Branchs
 
 git merge branch - Unifica e da um commit/pull das ramificações
+
+O merge junta os trabalhos e gera um merge commit. O rebase aplica os commits de outra branch na branch atual.
+
+**Resolvendo conflitos de merge/rebase
+**Ocorre quando duas linhas iguais são alteradas "simultaneamente" em 2 branchs
