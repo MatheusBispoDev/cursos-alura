@@ -15,3 +15,9 @@ git stash apply 0 -> Aplica as modificações
 git stash drop -> Remove as modificações e tira da stash
 git stash pop -> Faz o merge com as informações que já existem no repositório e remove da lista de stash
 
+
+Viajando no tempo - Voltando para commits anterioes
+
+git checkout -> Muda o estado da aplicação (seja alterando entre branch, seja alternado entre commits)
+git chechout hash_commit -> Navega para um commit especifico pelo codigo hash
+*para utilizar um commit anterior é necessário criar um branch
