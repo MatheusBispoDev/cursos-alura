@@ -1,9 +1,0 @@
-Desfazendo modificações no arquivo
-
-git checkout -- nome_arquivo -> Desfaz as modificações antes do Add
-gi reset HEAD nome_arquivo -> Desfaz a marcação para commit (desfaz o add), porém as modificações continuam lá
-
-git log (copiar o hash do commit)
-
-git revert codigo_hash -> Vai criar um novo commit revertendo as alterações daquele commit (hash)
-
