@@ -1,0 +1,28 @@
+GIT
+
+COMANDOS:
+
+git init -> Inicializa a monitoração do repositório
+git status -> Mostra o status daquele repositório
+git config --local -> Faz uma configuração naquele ambiente especifíco (projeto)
+git config --global -> Faz uma configuração para aquela máquina
+git add -> Adiciona um arquivo no git
+git rm --canched ->Remove um arquivo no git
+git commit -m "mensagem de commit" -> Da commit (salva) a alteração no repositório
+git log -> Abre o log do git (Quem deu commit, quando, onde, etc...)
+
+Arquivo .gitignore -> Todos arquivos/pastas dentro desse arquivo serão ignorados pelo git (não serão salvados)
+
+**Quando dar commit?
+  - Nunca dar commit em um código que não funciona
+  - Após cada alteração válida no projeto
+
+git init --bare -> Criar repositório para armazenamento dos push (Alterações dos arquivos) (Repostitório central)
+git remote -> Lista todos os repostitórios remotos que o repositório atual conheçe
+git remote add nome_repositorio_remote caminho da pasta_servidor -> Adiciona um repositorio remoto 
+						  *pasta_servidor pode ser qualquer coisa (pasta no computador local/pasta na rede/url de um servidor)
+  - Ex: git remote add local C:/Users/Casa/Desktop/git/Curso_Git_e_Github/servidor/
+
+git clone caminho_repositorio - Clona os dados daquele repositório
+git push local master - Envia todos os dados para o servidor que criamos (local) * Git clone necessário
+git pull local master - Pega as alterações feitas no servidor                    * Git clone necessário
