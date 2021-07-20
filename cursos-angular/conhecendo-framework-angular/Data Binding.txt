@@ -1,0 +1,3 @@
+Event binding - Fica escutando determinado componente para executar uma ação
+Two-way data binding -  é automatizar esse trafego de dados, de tal forma que o desenvolvedor não precise mais criar handlers no DOM para atualizar o Javascript e vice versa. Assim, quando um valor no DOM mudar, o Javascript responsável por aquele DOM também vai será atualizado com o respectivo valor automaticamente sem precisar adicionar qualquer handler
+Property binding - Ajuda para quando há mundanças nas propriedades (variaveis), assim é possivel pegar os dados quando á alteração
