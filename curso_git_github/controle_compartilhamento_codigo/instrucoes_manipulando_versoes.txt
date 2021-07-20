@@ -1,0 +1,17 @@
+Desfazendo modificações no arquivo
+
+git checkout -- nome_arquivo -> Desfaz as modificações antes do Add
+gi reset HEAD nome_arquivo -> Desfaz a marcação para commit (desfaz o add), porém as modificações continuam lá
+
+git log (copiar o hash do commit)
+git revert codigo_hash -> Vai criar um novo commit revertendo as alterações daquele commit (hash)
+
+
+Salvando os dados para serem usados depois
+
+git stash -> Salva para depois
+git stash list -> Mostra uma lista de tudo que tá salvo
+git stash apply 0 -> Aplica as modificações
+git stash drop -> Remove as modificações e tira da stash
+git stash pop -> Faz o merge com as informações que já existem no repositório e remove da lista de stash
+
