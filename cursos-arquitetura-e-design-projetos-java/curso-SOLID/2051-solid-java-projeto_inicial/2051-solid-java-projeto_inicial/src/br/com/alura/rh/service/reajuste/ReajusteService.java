@@ -7,7 +7,7 @@ import br.com.alura.rh.model.Funcionario;
     SOLID
     S - SINGLE RESPONSIBILITY PRINCIPLE
         Princípio da Responsabilidade Única (cada classe fica com uma responsabilidade específica, assim fica coesa)
-        Cada implementação está numa classe seprada
+        Cada implementação está numa classe separada
         
         *Uma classe (ou módulo, função, etc) deve ter um e apenas um motivo para mudar
 
@@ -25,8 +25,10 @@ import br.com.alura.rh.model.Funcionario;
         O Princípio LSP é uma extensão do Princípio Open Closed e isso significa que temos que ter certeza de que as novas classes derivadas estão estendendo as classes base, sem alterar seu comportamento.
 
     I - INTERFACE SEGREGATION PRINCIPLE
+        Princípio da segregação da interface
+        "Uma classe não deveria ser forçada a depender de métodos que não utilizará"
 
-    D - DEPENDENCY INVERSION PRINCIPE 
+    D - DEPENDENCY INVERSION PRINCIPLE 
         Princípio da inversão de dependências (Diminuir o acoplamento ou se acoplar com coisas mais estáveis (que mudam pouco, como interfaces))
         "Abstralções não devem depender de implementações. Implementações devem depender de abstrações." abstrações (interfaces)
         
