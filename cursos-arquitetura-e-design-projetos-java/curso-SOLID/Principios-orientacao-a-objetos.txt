@@ -1,0 +1,8 @@
+Principios da Orientação a Objetos
+* Coesão
+        "União Harmônica entre uma coisa e outra"
+	Atributos e métodos devem ter harmonia e representar/tratar coisas em comum
+* Encapsulamento
+	""
+* Acoplamento
+	""
