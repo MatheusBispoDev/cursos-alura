@@ -14,5 +14,8 @@ L - LISKOV SUBSTITUTION PRINCIPLE (Heranças indesejadas)
 	Ex: Uma classe terceirizado que herda funcionário, caso haja algum metódo não usado, que seja obrigatório a retornar exceção,
 	Fere esse principio.
 
-I -
-D -
+I - INTERFACE SEGREGATION PRINCIPLE
+
+D - DEPENDENCY INVERSION PRINCIPE
+	Princípio da inversão de dependências (Diminuir o acoplamento ou se acoplar com coisas mais estáveis (que mudam pouco, como interfaces))
+	"Abstralções não devem depender de implementações. Implementações devem depender de abstrações."

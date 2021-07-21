@@ -7,7 +7,7 @@ import java.time.temporal.ChronoUnit;
 import br.com.alura.rh.ValidacaoException;
 import br.com.alura.rh.model.Funcionario;
 
-public class validacaoPeriodicidadeReajuste {
+public class ValidacaoPeriodicidadeReajuste {
     public void validar(Funcionario funcionario, BigDecimal aumento) {
         LocalDate dataUltimoReajuste = funcionario.getDataUltimoReajuste();
         LocalDate dataAtual = LocalDate.now();
