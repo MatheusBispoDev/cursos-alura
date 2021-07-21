@@ -1,0 +1,9 @@
+MVC - MODEL VIEW CONTROLLER
+	|     |      |
+	|     |      |
+	|     |      |-> Controla o fluxo da aplicação processando os dados que o usuário passou e repassando para outras camadas(Faz a comunicação entre a view e a model)
+	|     |-> Responsavel por apresentar as informações de forma visual ao usuário
+	|-> Responsável pela regra de negócios + persistência de dados da aplicação (salvando dos dados)
+
+Clean Architecture (Arquitetura Limpa)e
+	
