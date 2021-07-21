@@ -5,6 +5,9 @@ Além disso, vamos mostrar a importância de ter testes automatizados e testes d
 Passo a Passo:
 
 1 - Boas práticas de código
+
 2 - Modelagem e padrões
+
 3 - Testes
+
 4 - Arquitetura
