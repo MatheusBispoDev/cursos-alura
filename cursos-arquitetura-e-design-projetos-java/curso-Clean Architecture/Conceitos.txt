@@ -1,0 +1,17 @@
+O que é Arquitetura:
+  Arquitetura pode ser definida como aquelas práticas e fundamentos de como você organiza um sistema, em relação aos seus componentes,
+  A relação entre eles, questão de ambientes e como vai ser gerenciado o design e a evolução desse software em relação ao código.
+	
+	* Compenentes do software e sua relações (programas e códigos)
+	* Infraestrutura do software (hardware)
+	* Estrutura e design do código
+	* Suporte aos requisitos de negócio
+	* Simplificar evoluções no software
+
+Clean Architecture - Modelo de arquitetura
+  Características:
+	* Isolar o código de domínio da aplicação (regras de negócio)
+	* Inversão de dependências (Interfaces)
+	* Favorece boas práticas de Orientação a Obejtos
+	* Código de domínio com alta "testabilidade (100% cobertura de teste)
+	* Independência de frameworks e detalhes de infraestrutura
