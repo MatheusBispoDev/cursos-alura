@@ -4,29 +4,29 @@ public enum Cargo {
 	//Enum pode ter métodos para implementar regras de negócios
 	ASSISTENTE {
 		@Override
-		public Cargo getProximoCargp() {
+		public Cargo getProximoCargo() {
 			return ANALISTA;
 		}
 	},
 	ANALISTA {
 		@Override
-		public Cargo getProximoCargp() {
+		public Cargo getProximoCargo() {
 			return ESPECIALISTA;
 		}
 	},
 	ESPECIALISTA {
 		@Override
-		public Cargo getProximoCargp() {
+		public Cargo getProximoCargo() {
 			return GERENTE;
 		}
 	},
 	GERENTE {
 		@Override
-		public Cargo getProximoCargp() {
+		public Cargo getProximoCargo() {
 			return GERENTE;
 		}
 	};
 
-    public abstract Cargo getProximoCargp();
+    public abstract Cargo getProximoCargo();
 
 }

@@ -6,6 +6,13 @@ O - Open Closed PRinciple (Reduzindo acoplamento)
 	O princípio Aberto/Fechado (OCP) diz que um sistema deve ser aberto para a extensão, mas fechado para a modificação;
 	Isso significa que devemos poder criar novas funcionalidades e estender o sistema sem precisar modificar muitas classes já existentes;
 
-L -
+L - LISKOV SUBSTITUTION PRINCIPLE (Heranças indesejadas)
+	As classes derivadas devem ser substituíveis por suas classes bases.
+        Em adição, o princípio implica que os métodos das sub-classes não podem lançar exceções não lançadas pela super-classe, exceto quando estas exceções são subtipos das exceções lançadas pelos métodos da super-classe.
+        O principio LSP é uma extensão do Princípio Open Closed e isso significa que temos que ter certeza de que as novas classes derivadas estão estendendo as classes base, sem alterar seu comportamento.
+	
+	Ex: Uma classe terceirizado que herda funcionário, caso haja algum metódo não usado, que seja obrigatório a retornar exceção,
+	Fere esse principio.
+
 I -
 D -
