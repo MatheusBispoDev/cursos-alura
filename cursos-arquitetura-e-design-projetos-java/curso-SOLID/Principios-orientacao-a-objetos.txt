@@ -1,43 +1,8 @@
 Principios da Orientação a Objetos
-
- Objeto -> Aglutinação de estados e comportamentos
- 
- Herança -> Um objeto ser idealizado em outro objeto
- 
- Polimorfismo -> Capacidade de um objeto compativel se passar por outro em determinada circustância (reescrita de um método)
- 
- Encapsulamento -> Esconder (private) detalhes da implementação do objeto, expondo somente o que deve ser acessado públicamente. Somente pode ser usado por métodos/funções
- 
- Abstração -> Representar um objeto de forma abstrata que seja mas a implementação precisa ser obrigatoriamente feita nas classes filhas (Template/Identidade/Super Classe)
- 
- Fonte: Código Fonte TC (Programação Orientada a Objetos (POO) // Dicionário do Programador)
-
---------------------------------------------------------------------------
-
-* Coesão ->"União Harmônica entre uma coisa e outra"
-  Atributos e métodos devem ter harmonia e representar/tratar coisas em comum
-  
-* Encapsulamento -> "Incluir ou proteger alguma coisa em uma cápsula"
-  Ex: Classe funcionário e Atributo salario que possui uma regra que o reajuste de salario não pode ser mais que 40% (precisa passar para um método para garantir a regra de negócio)
-  *** "Classes não encapsuladas permitem violação re regras de nogócios, além de aumentarem o acoplamento"
-
-* Acoplamento -> "Ação de acoplar. Agrupamento aos pares"
-  Uma classe A que chama uma classe B já gera um acoplamento
-  *Forte acoplamento é quando uma comunicação entres as classes é tão forte que uma alteração na classe A altera o funcionamento da classe B
---------------------------------------------------------------------------  
-  
-Resumo :
-Coesão:
-	Uma classe coesa faz bem uma única coisa
-	Classes coesas não devem ter várias responsabilidades
-
-Encapsulamento:
-	Getters e setters não são formas eficientes de aplicar encapsulamento
-	É interessante fornecer acesso apenas ao que é necessário em nossas classes
-	O encapsulamento torna o uso das nossas classes mais fácil e intuitivo
-	
-Acoplamento:
-	Acoplamento é a dependência entre classes
-	Acoplamento nem sempre é ruim, e que é impossível criar um sistema sem nenhum acoplamento
-	Devemos controlar o nível de acoplamento na nossa aplicação (falaremos mais sobre isso)
-  
+* Coesão
+        "União Harmônica entre uma coisa e outra"
+	Atributos e métodos devem ter harmonia e representar/tratar coisas em comum
+* Encapsulamento
+	""
+* Acoplamento
+	""
