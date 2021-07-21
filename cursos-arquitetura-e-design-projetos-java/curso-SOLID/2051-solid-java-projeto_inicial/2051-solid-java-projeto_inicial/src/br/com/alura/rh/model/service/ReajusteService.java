@@ -1,41 +1,40 @@
 package br.com.alura.rh.model.service;
-
 import java.math.BigDecimal;
-import java.math.RoundingMode;
-import java.time.LocalDate;
-import java.time.temporal.ChronoUnit;
-
-import br.com.alura.rh.ValidacaoException;
+import java.util.List;
 import br.com.alura.rh.model.Funcionario;
 
 /*
     SOLID
     S - SINGLE RESPONSIBILITY PRINCIPLE
-        Princípio da responsabilidade única (cada classe fica com uma responsabilidade específica, assim fica coesa)
+        Princípio da Responsabilidade Única (cada classe fica com uma responsabilidade específica, assim fica coesa)
+        
         *Uma classe (ou módulo, função, etc) deve ter um e apenas um motivo para mudar
+    O - OPEN CLOSED PRINCIPLE
+        Princípio do Aberto Fechado (entidades de software, entidades entendam como classes, módulos, funções ou coisas do gênero, 
+        elas deveriam estar sempre abertas para a extensão para você adicionar coisas novas, novos comportamentos, porém fechadas para modificação.)
+        
+        *Implementamos uma interface ReajusteService para separar as regras de negócios, assim, caso seja necessário alterar uma delas, só altera aquela regra
+        específica e não outras. Caso seja necessário criar outra, criará uma nova classe herdando da interface e/ou fará um polimorfismo de algum método, assim o princípio aberto fechado é respeitado
+    L -
+
+    I -
+
+    D -
 */
 
 public class ReajusteService {
 
-    public void reajustarSalario(Funcionario funcionario, BigDecimal aumento) {
-        BigDecimal salarioAtual = funcionario.getSalario();
-        BigDecimal percentualReajuste = aumento.divide(salarioAtual, RoundingMode.HALF_UP);
+    private List<ValidacaoReajuste> validacoes;
 
-        if (percentualReajuste.compareTo(new BigDecimal("0.4")) > 0) {
-            throw new ValidacaoException("Reajuste nao pode ser superior a 40% do salario!");
-        }
+    public ReajusteService(List<ValidacaoReajuste> validacoes) {
+        this.validacoes = validacoes;
+    }
 
-        LocalDate dataUltimoReajuste = funcionario.getDataUltimoReajuste();
-        LocalDate dataAtual = LocalDate.now();
+    public void reajustarSalarioDoFuncionario(Funcionario funcionario, BigDecimal aumento) {
+        // Executo cada uma das validacoes, caso alguma seja invalida vai jogar Exception
+        this.validacoes.forEach(v -> v.validar(funcionario, aumento));
 
-        long mesesDesdeUltimoReajuste = ChronoUnit.MONTHS.between(dataUltimoReajuste, dataAtual);
-
-        if (mesesDesdeUltimoReajuste < 6) {
-            throw new ValidacaoException("Intervalo entre reajustes deve ser no minimo de 6 meses!");
-        }
-
-        BigDecimal salarioReajustado = salarioAtual.add(aumento);
-
+        BigDecimal salarioReajustado = funcionario.getSalario().add(aumento);
         funcionario.atualizaSalario(salarioReajustado);
     }
 

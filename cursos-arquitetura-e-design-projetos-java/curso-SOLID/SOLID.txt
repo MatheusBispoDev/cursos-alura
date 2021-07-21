@@ -1,0 +1,11 @@
+S - Single Responsibility Principle (Melhorando coesão)
+	Segundo o Princípio de Responsabilidade Única (SRP), uma classe deve ter um e apenas um motivo para ser alterada;
+	Ou seja que classes/métodos/funções/módulos devem ter uma única responsabilidade bem definida;
+
+O - Open Closed PRinciple (Reduzindo acoplamento)
+	O princípio Aberto/Fechado (OCP) diz que um sistema deve ser aberto para a extensão, mas fechado para a modificação;
+	Isso significa que devemos poder criar novas funcionalidades e estender o sistema sem precisar modificar muitas classes já existentes;
+
+L -
+I -
+D -
