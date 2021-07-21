@@ -5,7 +5,7 @@ import java.time.LocalDate;
 
 public class Funcionario {
 
-	private String nome;
+	private String nome; 
 	private String cpf;
 	private Cargo cargo;
 	private BigDecimal salario;
