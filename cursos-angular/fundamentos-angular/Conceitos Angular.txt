@@ -1,0 +1,6 @@
+Data binding ou "Associação de dados"--> O Data binding implica em uma associação de dados com uma fonte de dados que, no nosso caso, está no componente, com seu template (nomenclatura do Angular), ou view.
+	*Suga os dados que estão no componente para a view.
+
+One way data binding ("data binding unidirecional"), isto porque os dados saem do componente, da fonte de dados, e vão para o template, no entanto não fazem o caminho contrário, e é importante frisarmos isto.
+
+
