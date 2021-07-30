@@ -1,0 +1,2 @@
+ng ng generate component nome_componente --> Cria um componente
+ng s -o --> Builda o projeto e abre uma tela no browser
