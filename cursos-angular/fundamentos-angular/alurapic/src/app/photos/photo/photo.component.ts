@@ -10,6 +10,6 @@ export class PhotoComponent {
     //Input =  Inbound properties: passando dados para o componente
 
     @Input() description = '';
-    
+
     @Input() url = '';
 }
