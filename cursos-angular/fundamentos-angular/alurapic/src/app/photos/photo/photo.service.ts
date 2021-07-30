@@ -14,7 +14,7 @@ export class PhotoService {
 
   listFromUser(userName: string) {
     // Subscribe só deve ser usada na hora de buscar os dados
-    return this.http.get<Photo[]>(API + '/flavio/photos'); // Tipando o retorno para <Object[]>
+    return this.http.get<Photo[]>(API + '/' + userName + '/photos'); // Tipando o retorno para <Object[]>
   }
 
   // string -> string y = 'flávio';

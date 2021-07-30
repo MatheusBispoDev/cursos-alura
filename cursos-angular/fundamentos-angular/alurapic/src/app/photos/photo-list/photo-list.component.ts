@@ -1,5 +1,6 @@
-
 import { Component, OnInit } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
+
 import { PhotoService } from '../photo/photo.service';
 
 @Component({
@@ -12,12 +13,18 @@ export class PhotoListComponent implements OnInit {
   photos: any[] = [];
 
   // Construtor = somente injeção de dependências
-  constructor(private photoService: PhotoService) { }
+  constructor(
+    private photoService: PhotoService,
+    private activatedRoute: ActivatedRoute, //Serviço ActivatedRoute para ter acesso ao Coringa (userName) que esta na rota
+  ) { }
 
   // OnInit ocorre depois da instanciação de AppComponent, e depois do componente receber as inbound properties
   // OnInit = códigos de inicialização de configuração
   ngOnInit(): void {
-      this.photoService.listFromUser('flavio').subscribe((photos) => {
+    //Pega o valor das rotas
+    const userName = this.activatedRoute.snapshot.params.userName;
+
+    this.photoService.listFromUser(userName).subscribe((photos) => {
       console.log(photos[0].description);
       this.photos = photos;
     });
