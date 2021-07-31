@@ -4,6 +4,8 @@ import { ActivatedRoute } from '@angular/router';
 import { Photo } from '../photo/photo';
 import { PhotoService } from '../photo/photo.service';
 
+// Componente que é responsável por atualizar a lista de fotos
+
 @Component({
   selector: 'ap-photo-list',
   templateUrl: './photo-list.component.html',
@@ -12,6 +14,7 @@ import { PhotoService } from '../photo/photo.service';
 export class PhotoListComponent implements OnInit {
 
   photos: Photo[] = [];
+  filter: string = '';
 
   // Construtor = somente injeção de dependências
   constructor(

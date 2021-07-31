@@ -2,6 +2,7 @@ import { Component, Input, OnChanges, SimpleChanges } from '@angular/core';
 
 import { Photo } from '../../photo/photo';
 
+// Componente que é responsável por renderizar os dados (lista)
 @Component({
   selector: 'ap-photos',
   templateUrl: './photos.component.html',
