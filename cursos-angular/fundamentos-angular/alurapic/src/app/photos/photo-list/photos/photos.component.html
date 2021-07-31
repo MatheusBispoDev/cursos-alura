@@ -1,0 +1,17 @@
+<!-- {{}} é usado quando se tem o conteúdo de uma tag (entre a tag) e quer exibir esse valor 
+<h1>{{ title }}</h1>-->
+
+<ol class="list-unstyled">
+    <li *ngFor="let cols of rows" class="row">
+        <div *ngFor="let photo of cols" class="col-4">
+            <ap-photo 
+                [url]="photo.url" 
+                [description]="photo.description">
+            </ap-photo>     
+        </div>
+    </li>
+</ol>
+
+<!-- *ngFor = Diretiva que se encarrega de pegar uma lista e apresentar
+    A diretiva *ngFor é utilizada para repetir um elemento do Template
+-->

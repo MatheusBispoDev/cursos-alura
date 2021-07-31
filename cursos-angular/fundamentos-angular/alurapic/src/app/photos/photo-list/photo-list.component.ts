@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 
+import { Photo } from '../photo/photo';
 import { PhotoService } from '../photo/photo.service';
 
 @Component({
@@ -10,7 +11,7 @@ import { PhotoService } from '../photo/photo.service';
 })
 export class PhotoListComponent implements OnInit {
 
-  photos: any[] = [];
+  photos: Photo[] = [];
 
   // Construtor = somente injeção de dependências
   constructor(
@@ -25,7 +26,6 @@ export class PhotoListComponent implements OnInit {
     const userName = this.activatedRoute.snapshot.params.userName;
 
     this.photoService.listFromUser(userName).subscribe((photos) => {
-      console.log(photos[0].description);
       this.photos = photos;
     });
   }
