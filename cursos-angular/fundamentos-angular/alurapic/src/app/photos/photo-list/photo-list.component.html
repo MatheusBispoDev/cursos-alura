@@ -1,18 +1,21 @@
 <div class="text-center mt-3 mb-3">
-    <form>
-        <input
-            class="rounded"
-            type="search"
-            placeholder="search..."
-            autofocus
-            (keyup)="filter = $event.target.value">
-            <!-- Quando coloca entre parenteses significa que para o event keyup ele vai avaliar a expressão (filter = $event...)
+  <form>
+    <input
+      class="rounded"
+      type="search"
+      placeholder="search..."
+      autofocus
+      (keyup)="debounce.next($event.target.value)"
+    />
+    <!-- Quando coloca entre parenteses significa que para o event keyup ele vai avaliar a expressão (filter = $event...)
                 vai do templete (view) para o componente, ou seja, a propriedade filter recebe o valor que o usuário está digitando
             -->
-    </form>
+  </form>
 </div>
 
-<ap-photos [photos]='photos | filterByDescription: filter'></ap-photos>
+<ap-photos [photos]="photos | filterByDescription: filter"></ap-photos>
+
+<ap-load-button (click)="load()" [hasMore]="hasMore"> </ap-load-button>
 
 <!--
     pipe | -> Serve para formatação de dados

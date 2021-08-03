@@ -16,3 +16,12 @@ declarations: [Compoentes...]
 	
 *Inbound properties: passando dados para o componente (Contrário do Data binding, pois no data binding ele faz referência a propriedade do compoente (Lê o atríbuto). No inbound, ele passa o valor diretamente)
 	@Input --> Comando
+
+*Pipes -> Aprendemos que Pipes ("tubos", em português) podem gerar transformações nos dados, e que podemos criar os nossos.
+	Usados para formatação dos dados (Strings: Data, dinheiros e outros)
+
+*Resolvers -> a resolução de dados assíncronos dos quais o componente depende antes de ser ativado, no momento em que ativamos a rota, antes mesmo dela avaliar tal componente
+
+* Lettable operators no RxJS
+
+* Spread Operator

@@ -1,6 +1,7 @@
-import { Photo } from './photo';
-import { HttpClient } from '@angular/common/http';
+import { HttpClient, HttpParams } from '@angular/common/http';
 import { Injectable } from '@angular/core';
+
+import { Photo } from './photo';
 
 const API = 'http://localhost:3000';
 
@@ -16,6 +17,12 @@ export class PhotoService {
     // Subscribe só deve ser usada na hora de buscar os dados
     return this.http.get<Photo[]>(API + '/' + userName + '/photos'); // Tipando o retorno para <Object[]>
   }
+
+  listFromUserPaginated(userName: string, page: number) {
+    const params = new HttpParams().append('page', page.toString());
+
+    return this.http.get<Photo[]>(API + '/' + userName + '/photos', { params });
+}
 
   // string -> string y = 'flávio';
   // String -> String y = new String('flávio);
