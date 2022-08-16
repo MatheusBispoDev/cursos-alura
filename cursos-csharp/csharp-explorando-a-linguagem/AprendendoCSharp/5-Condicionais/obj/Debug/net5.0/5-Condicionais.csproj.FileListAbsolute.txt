@@ -1,0 +1,15 @@
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\5-Condicionais\bin\Debug\net5.0\5-Condicionais.exe
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\5-Condicionais\bin\Debug\net5.0\5-Condicionais.deps.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\5-Condicionais\bin\Debug\net5.0\5-Condicionais.runtimeconfig.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\5-Condicionais\bin\Debug\net5.0\5-Condicionais.runtimeconfig.dev.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\5-Condicionais\bin\Debug\net5.0\5-Condicionais.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\5-Condicionais\bin\Debug\net5.0\ref\5-Condicionais.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\5-Condicionais\bin\Debug\net5.0\5-Condicionais.pdb
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\5-Condicionais\obj\Debug\net5.0\5-Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\5-Condicionais\obj\Debug\net5.0\5-Condicionais.AssemblyInfoInputs.cache
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\5-Condicionais\obj\Debug\net5.0\5-Condicionais.AssemblyInfo.cs
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\5-Condicionais\obj\Debug\net5.0\5-Condicionais.csproj.CoreCompileInputs.cache
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\5-Condicionais\obj\Debug\net5.0\5-Condicionais.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\5-Condicionais\obj\Debug\net5.0\ref\5-Condicionais.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\5-Condicionais\obj\Debug\net5.0\5-Condicionais.pdb
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\5-Condicionais\obj\Debug\net5.0\5-Condicionais.genruntimeconfig.cache

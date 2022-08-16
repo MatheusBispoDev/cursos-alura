@@ -1,0 +1,16 @@
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\1-OlaMundo\bin\Debug\net5.0\1-OlaMundo.exe
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\1-OlaMundo\bin\Debug\net5.0\1-OlaMundo.deps.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\1-OlaMundo\bin\Debug\net5.0\1-OlaMundo.runtimeconfig.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\1-OlaMundo\bin\Debug\net5.0\1-OlaMundo.runtimeconfig.dev.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\1-OlaMundo\bin\Debug\net5.0\1-OlaMundo.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\1-OlaMundo\bin\Debug\net5.0\ref\1-OlaMundo.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\1-OlaMundo\bin\Debug\net5.0\1-OlaMundo.pdb
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\1-OlaMundo\obj\Debug\net5.0\1-OlaMundo.csproj.AssemblyReference.cache
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\1-OlaMundo\obj\Debug\net5.0\1-OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\1-OlaMundo\obj\Debug\net5.0\1-OlaMundo.AssemblyInfoInputs.cache
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\1-OlaMundo\obj\Debug\net5.0\1-OlaMundo.AssemblyInfo.cs
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\1-OlaMundo\obj\Debug\net5.0\1-OlaMundo.csproj.CoreCompileInputs.cache
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\1-OlaMundo\obj\Debug\net5.0\1-OlaMundo.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\1-OlaMundo\obj\Debug\net5.0\ref\1-OlaMundo.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\1-OlaMundo\obj\Debug\net5.0\1-OlaMundo.pdb
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\1-OlaMundo\obj\Debug\net5.0\1-OlaMundo.genruntimeconfig.cache

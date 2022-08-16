@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "8-EncadeandoFor/1.0.0": {
+        "runtime": {
+          "8-EncadeandoFor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "8-EncadeandoFor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

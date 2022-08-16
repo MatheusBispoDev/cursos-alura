@@ -1,0 +1,15 @@
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\8-EncadeandoFor\bin\Debug\net5.0\8-EncadeandoFor.exe
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\8-EncadeandoFor\bin\Debug\net5.0\8-EncadeandoFor.deps.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\8-EncadeandoFor\bin\Debug\net5.0\8-EncadeandoFor.runtimeconfig.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\8-EncadeandoFor\bin\Debug\net5.0\8-EncadeandoFor.runtimeconfig.dev.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\8-EncadeandoFor\bin\Debug\net5.0\8-EncadeandoFor.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\8-EncadeandoFor\bin\Debug\net5.0\ref\8-EncadeandoFor.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\8-EncadeandoFor\bin\Debug\net5.0\8-EncadeandoFor.pdb
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\8-EncadeandoFor\obj\Debug\net5.0\8-EncadeandoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\8-EncadeandoFor\obj\Debug\net5.0\8-EncadeandoFor.AssemblyInfoInputs.cache
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\8-EncadeandoFor\obj\Debug\net5.0\8-EncadeandoFor.AssemblyInfo.cs
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\8-EncadeandoFor\obj\Debug\net5.0\8-EncadeandoFor.csproj.CoreCompileInputs.cache
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\8-EncadeandoFor\obj\Debug\net5.0\8-EncadeandoFor.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\8-EncadeandoFor\obj\Debug\net5.0\ref\8-EncadeandoFor.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\8-EncadeandoFor\obj\Debug\net5.0\8-EncadeandoFor.pdb
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\8-EncadeandoFor\obj\Debug\net5.0\8-EncadeandoFor.genruntimeconfig.cache

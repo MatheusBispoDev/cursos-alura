@@ -1,0 +1,15 @@
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\3-ConversoesEOutrosTipos\bin\Debug\net5.0\3-ConversoesEOutrosTipos.exe
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\3-ConversoesEOutrosTipos\bin\Debug\net5.0\3-ConversoesEOutrosTipos.deps.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\3-ConversoesEOutrosTipos\bin\Debug\net5.0\3-ConversoesEOutrosTipos.runtimeconfig.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\3-ConversoesEOutrosTipos\bin\Debug\net5.0\3-ConversoesEOutrosTipos.runtimeconfig.dev.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\3-ConversoesEOutrosTipos\bin\Debug\net5.0\3-ConversoesEOutrosTipos.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\3-ConversoesEOutrosTipos\bin\Debug\net5.0\ref\3-ConversoesEOutrosTipos.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\3-ConversoesEOutrosTipos\bin\Debug\net5.0\3-ConversoesEOutrosTipos.pdb
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\3-ConversoesEOutrosTipos\obj\Debug\net5.0\3-ConversoesEOutrosTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\3-ConversoesEOutrosTipos\obj\Debug\net5.0\3-ConversoesEOutrosTipos.AssemblyInfoInputs.cache
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\3-ConversoesEOutrosTipos\obj\Debug\net5.0\3-ConversoesEOutrosTipos.AssemblyInfo.cs
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\3-ConversoesEOutrosTipos\obj\Debug\net5.0\3-ConversoesEOutrosTipos.csproj.CoreCompileInputs.cache
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\3-ConversoesEOutrosTipos\obj\Debug\net5.0\3-ConversoesEOutrosTipos.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\3-ConversoesEOutrosTipos\obj\Debug\net5.0\ref\3-ConversoesEOutrosTipos.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\3-ConversoesEOutrosTipos\obj\Debug\net5.0\3-ConversoesEOutrosTipos.pdb
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-explorando-a-linguagem\AprendendoCSharp\3-ConversoesEOutrosTipos\obj\Debug\net5.0\3-ConversoesEOutrosTipos.genruntimeconfig.cache
