@@ -1,0 +1,16 @@
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-orientacao-a-objetos\bytebank\bin\Debug\net5.0\bytebank.exe
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-orientacao-a-objetos\bytebank\bin\Debug\net5.0\bytebank.deps.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-orientacao-a-objetos\bytebank\bin\Debug\net5.0\bytebank.runtimeconfig.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-orientacao-a-objetos\bytebank\bin\Debug\net5.0\bytebank.runtimeconfig.dev.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-orientacao-a-objetos\bytebank\bin\Debug\net5.0\bytebank.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-orientacao-a-objetos\bytebank\bin\Debug\net5.0\ref\bytebank.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-orientacao-a-objetos\bytebank\bin\Debug\net5.0\bytebank.pdb
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-orientacao-a-objetos\bytebank\obj\Debug\net5.0\bytebank.csproj.AssemblyReference.cache
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-orientacao-a-objetos\bytebank\obj\Debug\net5.0\bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-orientacao-a-objetos\bytebank\obj\Debug\net5.0\bytebank.AssemblyInfoInputs.cache
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-orientacao-a-objetos\bytebank\obj\Debug\net5.0\bytebank.AssemblyInfo.cs
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-orientacao-a-objetos\bytebank\obj\Debug\net5.0\bytebank.csproj.CoreCompileInputs.cache
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-orientacao-a-objetos\bytebank\obj\Debug\net5.0\bytebank.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-orientacao-a-objetos\bytebank\obj\Debug\net5.0\ref\bytebank.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-orientacao-a-objetos\bytebank\obj\Debug\net5.0\bytebank.pdb
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-orientacao-a-objetos\bytebank\obj\Debug\net5.0\bytebank.genruntimeconfig.cache
