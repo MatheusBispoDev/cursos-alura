@@ -1,0 +1,16 @@
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-trabalhando-array-colecoes\bytebank_ATENDIMENTO\obj\Debug\net5.0\bytebank_ATENDIMENTO.csproj.AssemblyReference.cache
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-trabalhando-array-colecoes\bytebank_ATENDIMENTO\obj\Debug\net5.0\bytebank_ATENDIMENTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-trabalhando-array-colecoes\bytebank_ATENDIMENTO\obj\Debug\net5.0\bytebank_ATENDIMENTO.AssemblyInfoInputs.cache
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-trabalhando-array-colecoes\bytebank_ATENDIMENTO\obj\Debug\net5.0\bytebank_ATENDIMENTO.AssemblyInfo.cs
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-trabalhando-array-colecoes\bytebank_ATENDIMENTO\obj\Debug\net5.0\bytebank_ATENDIMENTO.csproj.CoreCompileInputs.cache
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-trabalhando-array-colecoes\bytebank_ATENDIMENTO\bin\Debug\net5.0\bytebank_ATENDIMENTO.exe
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-trabalhando-array-colecoes\bytebank_ATENDIMENTO\bin\Debug\net5.0\bytebank_ATENDIMENTO.deps.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-trabalhando-array-colecoes\bytebank_ATENDIMENTO\bin\Debug\net5.0\bytebank_ATENDIMENTO.runtimeconfig.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-trabalhando-array-colecoes\bytebank_ATENDIMENTO\bin\Debug\net5.0\bytebank_ATENDIMENTO.runtimeconfig.dev.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-trabalhando-array-colecoes\bytebank_ATENDIMENTO\bin\Debug\net5.0\bytebank_ATENDIMENTO.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-trabalhando-array-colecoes\bytebank_ATENDIMENTO\bin\Debug\net5.0\ref\bytebank_ATENDIMENTO.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-trabalhando-array-colecoes\bytebank_ATENDIMENTO\bin\Debug\net5.0\bytebank_ATENDIMENTO.pdb
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-trabalhando-array-colecoes\bytebank_ATENDIMENTO\obj\Debug\net5.0\bytebank_ATENDIMENTO.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-trabalhando-array-colecoes\bytebank_ATENDIMENTO\obj\Debug\net5.0\ref\bytebank_ATENDIMENTO.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-trabalhando-array-colecoes\bytebank_ATENDIMENTO\obj\Debug\net5.0\bytebank_ATENDIMENTO.pdb
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-trabalhando-array-colecoes\bytebank_ATENDIMENTO\obj\Debug\net5.0\bytebank_ATENDIMENTO.genruntimeconfig.cache
