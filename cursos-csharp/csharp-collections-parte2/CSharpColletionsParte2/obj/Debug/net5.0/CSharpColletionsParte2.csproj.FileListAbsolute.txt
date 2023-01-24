@@ -1,0 +1,16 @@
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-collections-parte2\CSharpColletionsParte2\bin\Debug\net5.0\CSharpColletionsParte2.exe
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-collections-parte2\CSharpColletionsParte2\bin\Debug\net5.0\CSharpColletionsParte2.deps.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-collections-parte2\CSharpColletionsParte2\bin\Debug\net5.0\CSharpColletionsParte2.runtimeconfig.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-collections-parte2\CSharpColletionsParte2\bin\Debug\net5.0\CSharpColletionsParte2.runtimeconfig.dev.json
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-collections-parte2\CSharpColletionsParte2\bin\Debug\net5.0\CSharpColletionsParte2.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-collections-parte2\CSharpColletionsParte2\bin\Debug\net5.0\ref\CSharpColletionsParte2.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-collections-parte2\CSharpColletionsParte2\bin\Debug\net5.0\CSharpColletionsParte2.pdb
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-collections-parte2\CSharpColletionsParte2\obj\Debug\net5.0\CSharpColletionsParte2.csproj.AssemblyReference.cache
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-collections-parte2\CSharpColletionsParte2\obj\Debug\net5.0\CSharpColletionsParte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-collections-parte2\CSharpColletionsParte2\obj\Debug\net5.0\CSharpColletionsParte2.AssemblyInfoInputs.cache
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-collections-parte2\CSharpColletionsParte2\obj\Debug\net5.0\CSharpColletionsParte2.AssemblyInfo.cs
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-collections-parte2\CSharpColletionsParte2\obj\Debug\net5.0\CSharpColletionsParte2.csproj.CoreCompileInputs.cache
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-collections-parte2\CSharpColletionsParte2\obj\Debug\net5.0\CSharpColletionsParte2.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-collections-parte2\CSharpColletionsParte2\obj\Debug\net5.0\ref\CSharpColletionsParte2.dll
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-collections-parte2\CSharpColletionsParte2\obj\Debug\net5.0\CSharpColletionsParte2.pdb
+C:\Workspace\Git\cursos-alura\cursos-csharp\csharp-collections-parte2\CSharpColletionsParte2\obj\Debug\net5.0\CSharpColletionsParte2.genruntimeconfig.cache
