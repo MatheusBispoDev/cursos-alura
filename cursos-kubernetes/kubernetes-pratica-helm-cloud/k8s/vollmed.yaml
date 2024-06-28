@@ -1,0 +1,53 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: vollmed
+  labels:
+    app: vollmed
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: vollmed
+  template:
+    metadata:
+      labels:
+        app: vollmed
+    spec:
+      containers:
+      - name: vollmed-api
+        image: leonardosartorello/vollmed:v9
+        ports:
+        - containerPort: 3000
+        env:
+        # Define the environment variable
+        - name: DB_HOST # Notice that the case is different here
+                                     # from the key name in the ConfigMap.
+          valueFrom:
+            configMapKeyRef:
+              name: dados           # The ConfigMap this value comes from.
+              key: DB_HOST # The key to fetch.
+        - name: REDIS_HOST # Notice that the case is different here
+                                     # from the key name in the ConfigMap.
+          valueFrom:
+            configMapKeyRef:
+              name: dados           # The ConfigMap this value comes from.
+              key: REDIS_HOST # The key to fetch.
+        - name: DB_DATABASE # Notice that the case is different here
+                                     # from the key name in the ConfigMap.
+          valueFrom:
+            configMapKeyRef:
+              name: dados           # The ConfigMap this value comes from.
+              key: DB_DATABASE # The key to fetch.
+        - name: DB_PASSWORD # Notice that the case is different here
+                                     # from the key name in the ConfigMap.
+          valueFrom:
+            secretKeyRef:
+              name: senhas           # The ConfigMap this value comes from.
+              key: DB_PASSWORD # The key to fetch.
+        livenessProbe:
+          httpGet:
+            path: /paciente
+            port: 3000
+          initialDelaySeconds: 10
+          periodSeconds: 3
